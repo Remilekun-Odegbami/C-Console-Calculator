@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.exe
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.deps.json
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.runtimeconfig.json
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.runtimeconfig.dev.json
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.dll
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\ref\WeekEightTaskConsoleApp.dll
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\bin\Debug\net5.0\WeekEightTaskConsoleApp.pdb
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.AssemblyInfo.cs
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.dll
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\ref\WeekEightTaskConsoleApp.dll
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.pdb
+C:\Users\user\Desktop\week8task\WeekEightTaskConsoleApp\obj\Debug\net5.0\WeekEightTaskConsoleApp.genruntimeconfig.cache

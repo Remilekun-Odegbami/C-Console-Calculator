@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "WeekEightTaskConsoleApp/1.0.0": {
+        "runtime": {
+          "WeekEightTaskConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeekEightTaskConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
